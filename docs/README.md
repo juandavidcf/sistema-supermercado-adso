@@ -15,3 +15,6 @@ Este directorio contiene la documentación relacionada con el proceso de pruebas
 ### Evidencias
 
 Las evidencias gráficas de las pruebas realizadas se incorporarán al proyecto conforme se ejecuten y documenten las pruebas.
+
+
+
